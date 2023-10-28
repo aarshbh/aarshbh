@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aarshbh/Bharat-Intern/tree/main/Bharat%20Intern/Portfolio](https://github.com/aarshbh/Bharat-Intern/tree/main/Bharat%20Intern/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/aarshbh?tab=repositories](https://github.com/aarshbh?tab=repositories)
 
 - 📫 How to reach me **aarshbharti123@gmail.com**
 
