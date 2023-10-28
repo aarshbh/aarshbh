@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aarshbharti123@gmail.com**
 
-- <div style="text-align: right;">
+ <div style="text-align: right;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Giphy GIF" width="300" height="225">
 </div>
 
