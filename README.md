@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarsh Bharti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img scr="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=996&t=st=1698504795~exp=1698505395~hmac=98b97bd1c990f4fb8a4136b5c31590864cccc714b31b6db69308ce4952b88653" width="450px" align="right" alt="">
 
 - 🔭 I’m currently working on **daily coding challenge**
 
