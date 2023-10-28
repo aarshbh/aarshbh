@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarsh Bharti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img scr="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=996&t=st=1698504795~exp=1698505395~hmac=98b97bd1c990f4fb8a4136b5c31590864cccc714b31b6db69308ce4952b88653" width="450px" align="right" alt="">
+
 
 - 🔭 I’m currently working on **daily coding challenge**
 
@@ -11,6 +11,12 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aarshbh/Bharat-Intern/tree/main/Bharat%20Intern/Portfolio](https://github.com/aarshbh/Bharat-Intern/tree/main/Bharat%20Intern/Portfolio)
 
 - 📫 How to reach me **aarshbharti123@gmail.com**
+
+- <div style="text-align: right;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Giphy GIF" width="300" height="225">
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
