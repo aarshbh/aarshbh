@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aarsh Bharti</h1>
-<h3 align="center">A passionate web developer from Bharat</h3>
+<h3 align="center">A passionate AI/ML engineer from Bharat</h3>
 
 
-- 🔭 I’m currently working on **daily coding challenge**
+- 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aarshbh?tab=repositories](https://github.com/aarshbh?tab=repositories)
 
